@@ -29,12 +29,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexanderKholodnyak/nodejs-homework-REST-API.git"
+    "url": "git+https://github.com/AlexanderKholodnyak/Node-REST-API-with-LowDB.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlexanderKholodnyak/nodejs-homework-REST-API/issues"
+    "url": "https://github.com/AlexanderKholodnyak/Node-REST-API-with-LowDB/issues"
   },
-  "homepage": "https://github.com/AlexanderKholodnyak/nodejs-homework-REST-API#readme"
+  "homepage": "https://github.com/AlexanderKholodnyak/Node-REST-API-with-LowDB#readme"
 }
